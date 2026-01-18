@@ -2,7 +2,7 @@
 
 I'm currently on a gap year as a high school grad. During this time, I founded my first startup, antifragility.io, scaled it to six-figure ARR, and got acquired.
 
-Post-acquisition, I'm a PM @ Clover Labs and interning @ Wealthsimple working in product for margin trading.
+Post-acquisition, I'm a PM @ Clover Labs and interning @ Wealthsimple working in product for margin and options trading.
 
 Prior to this I did some other internships and consulting for startups backed by Y-Combinator, Accel, etc.
 
