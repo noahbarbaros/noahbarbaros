@@ -8,7 +8,7 @@ Prior to this I did some other internships and consulting for startups backed by
 
 Drop me a line at noah@barbaros.ca if you wanna chat!
 
----
+--
 
 Blog :: thepointone.co
 Website :: noahbarbaros.com
