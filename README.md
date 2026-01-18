@@ -4,7 +4,7 @@ I'm currently on a gap year as a high school grad. During this time, I founded m
 
 Post-acquisition, I'm a PM @ Clover Labs and interning @ Wealthsimple in product for margin and options trading.
 
-Prior to this I did some other internships and consulting for startups backed by Y-Combinator, Accel, etc.
+Prior to this I did other internships and consulting for some awesome startups backed by Y-Combinator, Accel, etc.
 
 Drop me a line at noah@barbaros.ca if you wanna chat!
 
