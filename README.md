@@ -1,6 +1,6 @@
 # What's up, I'm Noah
 
-I'm currently on a gap year as a high school grad. During this time, I founded my first startup, antifragility.io, scaled it to six-figure ARR, and got acquired.
+I'm currently on a gap year as a high school grad. During this time, I founded my first startup, antifragility.io, scaled it to six-figure ARR, and got successfully acquired.
 
 Post-acquisition, I'm a PM @ Clover Labs and interning @ Wealthsimple in product for margin and options trading.
 
