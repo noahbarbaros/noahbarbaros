@@ -10,4 +10,4 @@ Drop me a line at noah@barbaros.ca if you wanna chat!
 
 --
 
-Blog :: thepointone.co // Website :: noahbarbaros.com
+Website :: noahbarbaros.com // Blog :: thepointone.co
