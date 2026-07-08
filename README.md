@@ -4,7 +4,7 @@ I'm currently on a gap year as a high school grad. During this time, I founded m
 
 I'm interning @ Wealthsimple as a software engineer and was prev. in product for margin and options trading. 
 
-In my free time I like building trading agents.
+In my free time I like building trading agents for crypto.
 
 Drop me a line at noah@barbaros.ca if you wanna chat!
 
